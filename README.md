@@ -22,7 +22,7 @@ https://ge.globo.com/futebol/brasileirao-serie-a/.
 
 Abra o console do navegador:
 
-No Google Chrome, pressione F12 ou Ctrl+Shift+I e selecione a aba "Console".
+Na página, pressione F12 ou Ctrl+Shift+I e selecione a aba "Console".
 Copie o código JavaScript, cole no console e chame a função mundoJusto()
 
 OBSERVAÇÃO
